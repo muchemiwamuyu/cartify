@@ -151,7 +151,7 @@ function Home() {
 
       {/* Bottom Bar */}
       <div className="border-t border-gray-200 mt-8 pt-4 flex flex-col md:flex-row items-center justify-between px-4">
-        <p className="text-sm text-gray-600">&copy; 2023 Cartify. All rights reserved.</p>
+        <p className="text-sm text-gray-600 text-center">&copy; 2025 Cartify. All rights reserved.</p>
         <div className="flex space-x-4 mt-4 md:mt-0 text-gray-600">
           <a href="#" className="hover:text-black"><FaFacebookF /></a>
           <a href="#" className="hover:text-black"><FaTwitter /></a>
